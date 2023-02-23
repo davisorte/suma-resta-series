@@ -14,11 +14,32 @@ export const serieN = [
       },
 
       {
-        numero: 3,
-        resultado: 9,
+        numero: 7,
+        resultado: 32,
       },
       {
-        numero: 3,
-        resultado: 9,
+        numero: 9,
+        resultado: 34,
       },
+
+      {
+        numero: 11,
+        resultado: 8,
+      },
+      {
+        numero: 13,
+        resultado: -101,
+      },
+      {
+        numero: 15,
+        resultado: -443,
+      },
+      {
+        numero:50,
+        resultado:-12586267521,
+      },
+      {
+        numero:60,
+        resultado: -1548008753809
+      }
   ];
